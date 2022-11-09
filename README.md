@@ -1,2 +1,2 @@
-# Machine
-Machine learning algorythm
+# Welcome To The Machine
+Neuroevolution Experimental Repository
